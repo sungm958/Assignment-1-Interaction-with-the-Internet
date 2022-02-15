@@ -1,0 +1,39 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #A87F62;
+}
+
+header{
+    color: white;
+    height: 4rem;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    font-family: 'Parisienne', cursive;
+    position: relative;
+    left: 580px;
+}
+img{
+  width: 420px;
+  height: 320px;
+  position: relative;
+  left: 500px;
+  top: 200px;
+  border-radius: 70px;
+}
+img:hover{
+ .container:hover .image;
+  opacity: 0.3;
+  
+}
+h2{
+  position: absolute;
+  font-size: 14px;
+  letter-spacing: 3px;
+  align-items: center;
+  left: 550px;
+  top: 520px;
+  color:#6c3905;
+}
